@@ -1,0 +1,40 @@
+h1{
+    background-color: yellow;
+    color: blue;
+}
+
+h5{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+button{
+    background-color: blue;
+    color: white;
+}
+
+.myDiv{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.myPara{
+    font-size: 24px;
+    background-color: orange;
+    color: white;
+}
+
+.highlights{
+    background-color: pink;
+    color: orange;
+    font-size: 22px;
+}
+
+#ayaan{
+    background-color: lawngreen;
+    font-size: 20px;
+}
